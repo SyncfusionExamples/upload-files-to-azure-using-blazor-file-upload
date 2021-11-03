@@ -1,0 +1,9 @@
+﻿@page "/"
+
+@using Syncfusion.Blazor.Inputs
+@using System.IO
+@inject IJSRuntime JSRuntime;
+
+<SfUploader AutoUpload="true" Multiple="false" ID="UploadFiles" MaxFileSize="5000000">
+    <UploaderAsyncSettings SaveUrl="api/UploadAzure/Upload"></UploaderAsyncSettings>
+</SfUploader>
