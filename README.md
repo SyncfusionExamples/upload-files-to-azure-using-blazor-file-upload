@@ -14,3 +14,6 @@ To run this application, you need to first clone the `upload-files-to-azure-usin
 ## See also
 * [Online examples](https://blazor.syncfusion.com/demos/)
 * [Documentation](https://blazor.syncfusion.com/documentation/introduction)
+
+## Blog reference
+[Simple Steps to Upload Files to Azure Blob Storage in Blazor App](https://www.syncfusion.com/blogs/post/simple-steps-to-upload-files-to-azure-blob-storage-in-blazor-app.aspx)
